@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+joblib
+imblearn
+# For linting/formatting (optional, install in dev environment)
+flake8
+black
+autopep8
