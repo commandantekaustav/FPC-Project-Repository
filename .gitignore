@@ -125,8 +125,8 @@ dmypy.json
 # Data files
 data/processed/
 data/raw/*.csv # If you only want to track the raw file name, not the file itself if too large
-models/*.joblib
-models/*.pkl
+# models/*.joblib
+# models/*.pkl
 
 # IDE settings
 .vscode/
